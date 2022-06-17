@@ -13,3 +13,5 @@ these were important changes to understand how the merge conflict would have occ
 These are the most important contents of the repository
 
 These changes are post the conflict resolution of the file
+
+Causing some additional confilt to understand the functionality of rebasing 
