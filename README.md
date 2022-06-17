@@ -14,4 +14,11 @@ These are the most important contents of the repository
 
 These changes are post the conflict resolution of the file
 
+# Changes to understand the functionality of rebasing
+
+These changes were made locally to verify if we do get a conflict while trying to pull with rebase post commiting this line locally
 Causing some additional confilt to understand the functionality of rebasing 
+
+#Clarity that conflict will not be resolved with rebase 
+
+This is a clear understanding of the commit conflict resolution that will not happen while rebasing
