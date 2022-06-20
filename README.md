@@ -22,3 +22,5 @@ Causing some additional confilt to understand the functionality of rebasing
 #Clarity that conflict will not be resolved with rebase 
 
 This is a clear understanding of the commit conflict resolution that will not happen while rebasing
+
+Made some changes
